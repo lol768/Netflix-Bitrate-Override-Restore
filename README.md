@@ -3,23 +3,24 @@ Introduction
 
 It is well known that Netflix has supported a number of keyboard extensions for a while:
 
-## Ctrl+Shift+Alt+S
+### Ctrl+Shift+Alt+S
 
 ![](ctrlaltshifts.png)
 
 Allows the user to pick audio and video bitrate manually.
 
-## Ctrl+Shift+Alt+D / Ctrl+Shift+Alt+Q
+### Ctrl+Shift+Alt+D / Ctrl+Shift+Alt+Q
 
 Displays player debug information.
 
 ![](ctrlaltshiftd.png)
 
-## Ctrl+Shift+Alt+T
+### Ctrl+Shift+Alt+T
 
 Ostensibly to allow uploading custom subtitle files?
 
-----------
+Now
+---
 
 Unfortunately, the Ctrl+Shift+Alt+S combination was [disabled](https://old.reddit.com/r/netflix/comments/a40n9z/did_netflix_remove_the_shiftctrlalts_feature/) in Winter 2018. It appears to be an industry-wide trend to treat paying users as morons, conclude that you "know better" than them and strip out any functionality useful to power users.
 
