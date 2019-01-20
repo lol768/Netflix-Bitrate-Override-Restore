@@ -1,3 +1,7 @@
+### Browser support note
+
+The WebExtension on the releases page [only supports Firefox](https://github.com/lol768/Netflix-Bitrate-Override-Restore/issues/2#issuecomment-455904371) due to missing API support in Chrome & Edge.
+
 Introduction
 ------------
 
