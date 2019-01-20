@@ -1,6 +1,7 @@
 {
   "description": "Taking back control!",
   "manifest_version": 2,
+  "author": "lol768",
   "name": "netflix-stream-cp",
   "version": "1.1",
 
@@ -12,6 +13,7 @@
   ],
 
   "background": {
+    "persistent": false,
     "scripts": ["background.js"]
   }
 }

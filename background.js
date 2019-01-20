@@ -18,7 +18,7 @@ function listener(details) {
 
   //return {}; // not needed
 }
-chrome.webRequest.onBeforeRequest.addListener(
+browser.webRequest.onBeforeRequest.addListener(
   listener,
   {urls: ["https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0012*"]}, ["blocking"]
 );
