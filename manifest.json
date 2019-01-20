@@ -7,7 +7,8 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "<all_urls>"
+    "https://assets.nflxext.com/*",
+    "https://www.netflix.com/*"
   ],
 
   "background": {
